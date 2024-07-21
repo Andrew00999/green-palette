@@ -1,0 +1,17 @@
+:root {
+	/* Colors */
+	--main-text-color: #0c3e2e;
+	--cta-bg-color: #ffba00;
+	--main-gold-color: #bb8a52;
+	--olive-bg: rgba(109, 151, 115, 0.1);
+	--placeholder-gray: #d9d9d9;
+
+	/* Font sizes */
+	--main-font-size: 18px;
+
+	/* Fonts */
+	--Inter-font: 'Inter', sans-serif;
+	--Balsamiq-font: 'Balsamiq Sans', sans-serif;
+	--Kaisei-Decol-font: 'Kaisei Decol', serif;
+	--Manrope-font: 'Manrope', sans-serif;
+}
